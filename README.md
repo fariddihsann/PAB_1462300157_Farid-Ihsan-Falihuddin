@@ -9,4 +9,4 @@ Remidi Praktikum Pemrograman Aplikasi Bergerak Sesi PAB-2
 ### Spesifikasi Teknis
 - **Target:** Android
 - **Backend:** Firebase Auth & Cloud Firestore
-- **Environment:** menggunakan Emulator atau Device Android.
+- **Environment:** Menggunakan Emulator atau Device Android.
