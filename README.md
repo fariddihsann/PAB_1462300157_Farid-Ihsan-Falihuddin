@@ -1,6 +1,6 @@
 # PAB_1462300157_SpaceNewsCore
 
-Remidi Praktikum Pemrograman Aplikasi Bergerak.
+Remidi Praktikum Pemrograman Aplikasi Bergerak Sesi PAB-2
 
 ### Identitas
 - **Nama:** Farid Ihsan Falihuddin
