@@ -1,17 +1,13 @@
-# pab_1462300157
+PAB_1462300157_SpaceNewsCore
+Remidi Praktikum PAB
+Mahasiswa: Farid Ihsan Falihuddin (1462300157)
 
-A new Flutter project.
+Deskripsi
+Aplikasi portal berita SpaceNews Core dengan Firebase Auth, Firestore Database, dan API integration.
 
-## Getting Started
+Spesifikasi Teknis
+Target: Android
 
-This project is a starting point for a Flutter application.
+Backend: Firebase Authentication & Cloud Firestore
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Environment: Disarankan menggunakan Emulator/Device Android
